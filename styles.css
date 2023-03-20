@@ -12,7 +12,6 @@ height:100px;
 	margin-left:10px;
 	text-align:left;
 	border:1px solid;
-/* 	text-color:black; */
 	padding:10px;
 }
 .player_two{
@@ -22,6 +21,7 @@ height:100px;
 	margin-top:20px;
 	margin-left:190px;
 	border:1px solid;
+	border-radius:3px;
 }
 video{
 	height:180px;
@@ -29,9 +29,7 @@ video{
 	padding:7px;
 }
 audio{
-/* 	margin-bottom:255px; */
 	margin-bottom:200px;
-/* 	padding-bottom:500px; */
 	height:10px;
 	width:270px;
 }
