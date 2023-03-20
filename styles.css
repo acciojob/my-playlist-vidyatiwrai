@@ -1,1 +1,46 @@
 /*  your css code here. If applicable */
+.container{
+	height:460px;
+	width:720px;
+	background-color:#cccccc;
+	text-align:center;
+}
+.player_one{
+height:100px;
+	width:660px;
+	background-color:white;
+	margin-left:10px;
+	text-align:left;
+	border:1px solid;
+/* 	text-color:black; */
+	padding:10px;
+}
+.player_two{
+	height:270px;
+	width:270px;
+	background-color:white;
+	margin-top:20px;
+	margin-left:190px;
+	border:1px solid;
+}
+video{
+	height:180px;
+	width:240px;
+	padding:7px;
+}
+audio{
+/* 	margin-bottom:255px; */
+	margin-bottom:200px;
+/* 	padding-bottom:500px; */
+	height:10px;
+	width:270px;
+}
+a{
+	text-decoration: none;
+	color:black;
+}
+
+	
+	
+
+
