@@ -1,47 +1,46 @@
-/*  your css code here. If applicable */
+/* your css code here. If applicable */
+/* your css code here. If applicable */
 .container{
-	height:560px;
-	width:720px;
-	display:flex;
-	flex-direction:column;
-	justify-content:center;
-	align-items:center;
-	background-color:#cccccc;
-	text-align:center;
+height:720px;
+width:720px;
+display:flex;
+flex-direction:column;
+justify-content:center;
+align-items:center;
+background-color:#cccccc;
+text-align:center;
 }
 .player_one{
 /* height:120px; */
-	width:660px;
-	background-color:white;
-	text-align:left;
-	border:1px solid;
-	padding-left:-10px;
+width:660px;
+background-color:white;
+text-align:left;
+border:1px solid;
+padding-left:-10px;
 }
 .player_two{
-	height:270px;
-	width:270px;
-	background-color:white;
-/* 	margin-top:20px; */
-/* 	margin-left:190px; */
-	border:1px solid;
-	border-radius:3px;
+height:275px;
+width:270px;
+background-color:white;
+border:1px solid;
+border-radius:3px;
+padding:20px;
 }
 video{
-	height:180px;
-	width:240px;
-	padding:7px;
+height:180px;
+width:240px;
+padding:1px;
 }
 audio{
-	margin-bottom:200px;
-	height:10px;
-	width:270px;
+margin-bottom:200px;
+height:30px;
+width:270px;
 }
 a{
-	text-decoration: none;
-	color:black;
+text-decoration: none;
+color:black;
 }
-
-	
-	
-
-
+.mar{
+margin:5px;
+paddings:2px;
+}
